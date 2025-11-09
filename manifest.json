@@ -1,0 +1,6 @@
+
+{
+  "name": "Web Screen Mirror",
+  "description": "A web application to mirror your device's screen to a PC, inspired by remote desktop tools like TeamViewer and LetsView. Start sharing your screen to view it in real-time in your browser.",
+  "requestFramePermissions": []
+}
